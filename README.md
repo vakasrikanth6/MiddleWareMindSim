@@ -23,16 +23,22 @@ Can be done using Netgear N150 as stated in the official website,but this is no 
 
 1.Lejos Ev3 
 https://sourceforge.net/projects/ev3.lejos.p/files/
+
 2.Eclipse  Neon version
 http://www.eclipse.org/downloads/eclipse-packages/
+
 3.V-REP 
 http://www.coppeliarobotics.com/downloads.html
+
 4.Java Jdk
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 5.Creating bootable sd card
 https://sourceforge.net/p/lejos/wiki/Creating%20a%20bootable%20SD%20card%200.7.0/
+
 6.lejos ev3 plugin for eclipse 
 https://sourceforge.net/p/lejos/wiki/Installing%20the%20Eclipse%20plugin/
+
 7.Edimax EW-7811UN adapter
 https://www.amazon.de/EDIMAX-EW-7811UN-Wireless-Adapter-IEEE802-11b/dp/B003MTTJOY
 
